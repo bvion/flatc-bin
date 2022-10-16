@@ -1,6 +1,6 @@
 {
   "name": "flatc-bin",
-  "version": "2.0.1007",
+  "version": "22.10.16",
   "description": "Run flatc using \"npx flatc-bin\"",
   "main": "bin/flatc",
   "bin": {
